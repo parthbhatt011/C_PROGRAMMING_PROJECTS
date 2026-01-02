@@ -1,3 +1,5 @@
+//this is basic calculator 
+
 #include<stdio.h>
 
 int main(){
